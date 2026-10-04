@@ -5,6 +5,13 @@ El perfil de GitHub de SIS-INF sirve como carta de presentación oficial de la c
 
 ## Público
 
+- **Postulantes:** Buscan información sobre la carrera, su plan de estudios y proyectos estudiantiles.
+- **Estudiantes:** Encuentran recursos de aprendizaje, repositorios de código y apoyo para sus materias.
+- **Docentes:** Comparten material académico y gestionan proyectos de aula de forma colaborativa.
+- **Egresados:** Se mantienen conectados con la comunidad y ven oportunidades de colaboración.
+- **Otras universidades:** Conocen la propuesta académica y los desarrollos institucionales.
+- **Empresas:** Identifican talento potencial y revisan el nivel técnico de los proyectos.
+
 ## Mensaje institucional
 
 ## Tono de redacción
