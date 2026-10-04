@@ -1,6 +1,7 @@
 # Guía del perfil de GitHub de SIS-INF
 
 ## Objetivo del perfil
+El perfil de GitHub de SIS-INF sirve como carta de presentación oficial de la carrera de Ingeniería de Sistemas e Informática. Su objetivo principal es mostrar al público que los proyectos desarrollados son software libre institucional, creados colaborativamente por docentes y estudiantes. Además, busca reconocer y dar visibilidad a quienes contribuyen activamente en la comunidad. A través de este espacio, se fomenta el espíritu colaborativo y el aprendizaje práctico en herramientas de control de versiones.
 
 ## Público
 
