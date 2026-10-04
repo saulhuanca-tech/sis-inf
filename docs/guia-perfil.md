@@ -1,3 +1,4 @@
+
 ## Paleta de colores
 
 A continuación se detallan los colores aprobados para la interfaz, sus combinaciones y el cumplimiento del contraste de accesibilidad AA:
@@ -24,6 +25,17 @@ A continuación se detallan los colores aprobados para la interfaz, sus combinac
 - El color **`#0078D4`** sobre el fondo **`#F5F5F5`** da una relación de contraste de **aproximadamente 4.15:1**.
 - Este valor **no cumple el criterio AA** para texto normal (mínimo requerido: 4.5:1).
 - **Solución sugerida:** oscurecer el tono del color o usar negrita en el texto.
+=
+## Reglas para imágenes
+
+Para mantener consistencia visual y accesibilidad, se aplican las siguientes reglas:
+
+-  **Formato preferido:** SVG, por su escalabilidad y compatibilidad.
+-  **Tamaño máximo:** 200 KB por archivo.
+-  **Texto alternativo:** obligatorio en todas las imágenes.
+-  **Recursos externos:** no se permiten dentro de los SVG.
+-  **Versiones:** cada banner debe tener versión clara y oscura.
+>
 
 ## Uso de emojis e íconos
 
