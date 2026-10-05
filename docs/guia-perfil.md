@@ -1,31 +1,25 @@
-
 ## Paleta de colores
 
-A continuación se detallan los colores aprobados para la interfaz, sus combinaciones y el cumplimiento del contraste de accesibilidad AA:
+Los siguientes colores se utilizarán para mantener una interfaz consistente y accesible.
 
 ### Colores base
+
 | Uso | Código hexadecimal | Descripción |
 |---|---|---|
-| Fondo claro | #F5F5F5 | Color base para fondos neutros |
-| Fondo oscuro | #1E1E1E | Contraste para modo oscuro |
-| Acento | #0078D4 | Azul institucional de la carrera |
-| Texto principal | #333333 | Legible sobre fondo claro |
-| Texto inverso | #FFFFFF | Legible sobre fondo oscuro |
+| Fondo claro | #F5F5F5 | Fondo principal en modo claro |
+| Fondo oscuro | #1E1E1E | Fondo principal en modo oscuro |
+| Acento | #0078D4 | Botones, enlaces y elementos destacados |
+| Texto principal | #333333 | Texto sobre fondo claro |
+| Texto inverso | #FFFFFF | Texto sobre fondo oscuro o color de acento |
 
-### Combinaciones y contraste de accesibilidad
-| Color de fondo | Color de texto | Relación de contraste | Cumple AA |
-|---|---|---|---|
-| #F5F5F5 | #000000 | ~19.5:1 | ✅ Sí |
-| #0078D4 | #FFFFFF | ~4.15:1 | ⚠️ No |
-| #005A9E | #FFFFFF | ~7.2:1 | ✅ Sí |
-| #E5E5E5 | #111111 | ~12:1 | ✅ Sí |
-| #D2E0F7 | #002050 | ~8.3:1 | ✅ Sí |
+### Verificación de contraste AA
 
-### Observación de verificación de contraste AA
-- El color **`#0078D4`** sobre el fondo **`#F5F5F5`** da una relación de contraste de **aproximadamente 4.15:1**.
-- Este valor **no cumple el criterio AA** para texto normal (mínimo requerido: 4.5:1).
-- **Solución sugerida:** oscurecer el tono del color o usar negrita en el texto.
-=
+| Fondo | Texto | Contraste | Cumple AA |
+|---|---|---:|---|
+| #F5F5F5 | #333333 | 11.59:1 | Sí |
+| #1E1E1E | #FFFFFF | 16.67:1 | Sí |
+| #0078D4 | #FFFFFF | 4.53:1 | Sí |
+
 ## Reglas para imágenes
 
 Para mantener consistencia visual y accesibilidad, se aplican las siguientes reglas:
@@ -35,7 +29,7 @@ Para mantener consistencia visual y accesibilidad, se aplican las siguientes reg
 -  **Texto alternativo:** obligatorio en todas las imágenes.
 -  **Recursos externos:** no se permiten dentro de los SVG.
 -  **Versiones:** cada banner debe tener versión clara y oscura.
->
+
 
 ## Uso de emojis e íconos
 
